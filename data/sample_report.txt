@@ -1,0 +1,13 @@
+Subject: Project Update - DocuGuard
+
+Hi Team,
+
+This is a quick update on the DocuGuard project.
+Please contact Alice Smith at alice.smith@example.com or on her mobile 555-123-4567 for details on the latest parser module.
+
+We also need to review the requirements document located at /server/docs/. The budget code is BG-7890.
+
+Bob Johnson (bob.j@example.org, SSN: 987-65-4321) is handling the risk analysis component. He is based in London.
+
+Thanks,
+Robert 
